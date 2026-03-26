@@ -24,13 +24,7 @@ This project is part of a broader [Cybersecurity Portfolio](https://github.com/Y
 
 ### Honeypot Startup — All four services active
 
-![Startup](screenshots/startup.png)
-
----
-
-### SSH Capture — Connection attempt logged in real time
-
-![SSH Capture](screenshots/ssh_capture.png)
+![Startup](screenshots/startup.PNG)
 
 ---
 
@@ -48,13 +42,13 @@ This project is part of a broader [Cybersecurity Portfolio](https://github.com/Y
 
 ### Telnet Capture — Login attempt intercepted
 
-![Telnet Capture](screenshots/telnet_capture.png)
+![Telnet Capture](screenshots/telnet_capture.PNG)
 
 ---
 
 ### Auto-generated JSON Report
 
-![Report](screenshots/report.png)
+![Report](screenshots/json_report3.png)
 
 ---
 
